@@ -1,0 +1,1 @@
+This needs to be deployed on a separate account due to not being able to query between workers on the same account https://community.cloudflare.com/t/get-error-code-1042-when-fetching-within-worker/288031
